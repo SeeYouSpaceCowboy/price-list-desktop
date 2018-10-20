@@ -6,7 +6,7 @@ class MainWindow extends BrowserWindow {
       width: 400,
       height: 600,
       title: "Price List",
-      show: false
+      show: true
     })
   }
 }
