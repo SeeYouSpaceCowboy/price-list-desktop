@@ -1,0 +1,24 @@
+{
+  "name": "price-list-desktop",
+  "version": "1.0.0",
+  "description": "Desktop Application for Price List.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeeYouSpaceCowboy/price-list-desktop.git"
+  },
+  "keywords": [
+    "nodejs",
+    "electron",
+    "desktop"
+  ],
+  "author": "Mohammed Chisti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SeeYouSpaceCowboy/price-list-desktop/issues"
+  },
+  "homepage": "https://github.com/SeeYouSpaceCowboy/price-list-desktop#readme"
+}
