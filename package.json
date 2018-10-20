@@ -2,9 +2,11 @@
   "name": "price-list-desktop",
   "version": "1.0.0",
   "description": "Desktop Application for Price List.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "test"
+    "electron": "electron .",
+    "start": "npm install && electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -20,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/SeeYouSpaceCowboy/price-list-desktop/issues"
   },
-  "homepage": "https://github.com/SeeYouSpaceCowboy/price-list-desktop#readme"
+  "homepage": "https://github.com/SeeYouSpaceCowboy/price-list-desktop#readme",
+  "dependencies": {
+    "electron": "^3.0.5"
+  }
 }
