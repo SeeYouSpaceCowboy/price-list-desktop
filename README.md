@@ -1,2 +1,2 @@
-# price-list-desktop
+# Price List Desktop
 Desktop application for Price List. 
